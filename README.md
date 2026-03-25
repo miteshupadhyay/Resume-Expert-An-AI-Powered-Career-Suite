@@ -153,7 +153,7 @@ os.environ["OPENAI_API_KEY"] = "your-api-key"
 ### 4️⃣ Run the App
 
 ```bash
-streamlit run app.py
+streamlit run Final_Streamlit_app.py
 ```
 
 ---
@@ -224,16 +224,10 @@ If you like this project:
 > Let AI make it exceptional." 🚀
 
 ---
-# Resume-Expert-An-AI-Powered-Career-Suite
+# Important, don't forget to create virtual env
 py -3.11 -m venv resume
-
 
 resume\Scripts\activate
 
 pip install -r requirements.txt
 
-streamlit run resume_checker.py
-streamlit cover_letter_generator.py
-streamlit resume_scorer.py
-streamlit run ai_carrer_coach.py
-streamlit run Final_Streamlit_app.py
