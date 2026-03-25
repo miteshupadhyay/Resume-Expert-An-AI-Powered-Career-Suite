@@ -88,6 +88,7 @@ This app combines multiple powerful AI-driven tools into a single intuitive inte
 ---
 
 ## 🏗️ Architecture
+<img width="311" height="434" alt="image" src="https://github.com/user-attachments/assets/c7f228b7-0bb8-4c12-a4a1-c8bb9881a672" />
 
 ```
 Resume (PDF)
